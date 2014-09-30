@@ -1,0 +1,8 @@
+C:\Users\scopeland\_GIT\Time_Management\Time-Management\C#\Time Management\Time Management\bin\Debug\Time Management.exe
+C:\Users\scopeland\_GIT\Time_Management\Time-Management\C#\Time Management\Time Management\bin\Debug\Time Management.pdb
+C:\Users\scopeland\_GIT\Time_Management\Time-Management\C#\Time Management\Time Management\obj\Debug\Time Management.csprojResolveAssemblyReference.cache
+C:\Users\scopeland\_GIT\Time_Management\Time-Management\C#\Time Management\Time Management\obj\Debug\Time_Management.MainWindow.resources
+C:\Users\scopeland\_GIT\Time_Management\Time-Management\C#\Time Management\Time Management\obj\Debug\Time_Management.Properties.Resources.resources
+C:\Users\scopeland\_GIT\Time_Management\Time-Management\C#\Time Management\Time Management\obj\Debug\Time Management.csproj.GenerateResource.Cache
+C:\Users\scopeland\_GIT\Time_Management\Time-Management\C#\Time Management\Time Management\obj\Debug\Time Management.exe
+C:\Users\scopeland\_GIT\Time_Management\Time-Management\C#\Time Management\Time Management\obj\Debug\Time Management.pdb
